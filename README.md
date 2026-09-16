@@ -10,5 +10,5 @@ Features
 - Responsive design
 - Pixel-style theme
 
-Tech Stack
+Tech Stack:
 HTML, CSS, JavaScript
