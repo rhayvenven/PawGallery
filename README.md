@@ -1,6 +1,6 @@
 PawGallery
 
-A simple, interactive photo gallery featuring my dogs, Goldie and Cookie — built to practice HTML, CSS, and JavaScript with a fun, personal project.
+A simple, interactive photo gallery featuring my dogs, Goldie and Cookie — built to practice HTML, CSS, and JavaScript with a fun, personal project
 
 Features
 - Dog photo gallery
